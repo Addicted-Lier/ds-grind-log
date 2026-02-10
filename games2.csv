@@ -1,0 +1,19 @@
+game_id,title,genre,release_year,units_sold_m,rating
+1,The Legend of Data,Adventure,2022,15.5,9.5
+2,Python Quest,RPG,2021,8.2,
+3,SQL Arena,Strategy,2023,5.4,7.5
+4,Pandas Paradise,Simulation,2022,12.1,
+5,Matrix Reloaded,Action,2020,3.3,6.5
+6,Loop Hero,Indie,2021,2.1,
+7,Dragon Script,RPG,2020,7.5,8.2
+8,Code Chronicles,Adventure,2021,10.2,
+9,Algo Masters,Strategy,2022,6.1,8.0
+10,Sim City Data,Simulation,2023,9.0,8.8
+11,Battle of Bytes,Action,2021,4.4,
+12,Indie Pixels,Indie,2022,1.8,7.9
+13,Quest for Logic,RPG,2023,6.9,
+14,Hidden Variables,Adventure,2020,11.0,8.7
+15,War of Queries,Strategy,2021,5.0,
+16,Sim World,Simulation,2020,7.3,8.1
+17,Action Replay,Action,2022,4.9,7.2
+18,Indie Craft,Indie,2023,2.5,
